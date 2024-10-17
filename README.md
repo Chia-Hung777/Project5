@@ -17,11 +17,7 @@ The dataset includes the following key features:
 # Step
 - Data Preprocessing
 - Model Development
-# Evaluation Metrics
-- MAE (Mean Absolute Error)
-- MSE (Mean Squared Error)
-- RMSE (Root Mean Squared Error)
-- R² (R-squared)
-# Model Performance
-![image]
-# Visual Comparison of Models
+- Compare model
+# Model Performance and  Visual Comparison of Models
+![image](comparemodel.png)
+
