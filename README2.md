@@ -19,4 +19,5 @@ The file is WalmartSalesRFR.
 5. Model Comparison and Results
 - Several RandomForestRegressor models were trained with different configurations, and the performance was evaluated using Weighted Mean Absolute Error (WMAE). The following table summarizes the results:
 # Conclusion
-![image](comparemodel.png)
+![image](BestResults.png)
+The model that produced the best results is the RandomForestRegressor with the entire dataset and feature selection applied, yielding a WMAE of 1801. This indicates that feature selection significantly improves model performance.
